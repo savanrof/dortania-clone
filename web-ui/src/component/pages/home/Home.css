@@ -1,0 +1,51 @@
+.main-content {
+
+}
+
+.main-content .dortania-logo {
+    width: 280px;
+    height: 280px;
+    margin: 3rem auto 1.5rem;
+    display: block;
+}
+
+.main-content #main-title {
+    margin: 1.8rem;
+    text-align: center;
+    font-size: 3em;
+    font-weight: 600;
+    color: #2c3e50;
+}
+
+.main-content .description {
+    color: #6b8cae;
+    text-align: center;
+    font-size: 1.6em;
+}
+
+.main-content .getting-started {
+    margin: 1.8em auto;
+    display:    block;
+}
+
+.main-content .getting-started a{
+    background-color: #19b3e7;
+    border-radius: 40px;
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: #ffffff;
+    height: 3em;
+    width: 10em;
+    display: flex;
+    align-items:center;
+    justify-content:center;
+    margin: auto;
+}
+.main-content .section2 {
+    margin: 1em 1.5em;
+}
+.main-content .section2 .usage-title{
+    color: #2c3e50;
+    font-size: 2em;
+    font-weight: 500;
+}
